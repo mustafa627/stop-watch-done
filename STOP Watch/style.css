@@ -1,0 +1,40 @@
+.containerr{
+    /* border: 1px solid red; */
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin: 0 auto; */
+    margin-top: 100px;
+    height: 300px;
+    justify-content: center;
+    gap: 70px;
+    width: 50%;
+}
+.msec{
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 150px;
+    height: 140px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.sec{
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 150px;
+    height: 140px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.min{
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 150px;
+    height: 140px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
